@@ -2,7 +2,7 @@ export const movies = [
   {
     id: 1,
     title: 'Pulp Fiction',
-    poster: 'pulp-fiction.jpg',
+    poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/pulp-fiction.jpg',
     year: 1994,
     rating: 8.9,
     director: 'Quentin Tarantino',
@@ -30,7 +30,7 @@ export const movies = [
   {
     id: 2,
     title: '1917',
-    poster: '1917.jpg',
+    poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/1917.jpg',
     year: 2019,
     rating: 8.3,
     director: 'Sam Mendes',
@@ -58,7 +58,7 @@ export const movies = [
   {
     id: 3,
     title: 'La La Land',
-    poster: 'la-la-land.jpg',
+    poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/la-la-land.jpg',
     year: 2016,
     rating: 8.0,
     director: 'Damien Chazelle',
@@ -86,7 +86,7 @@ export const movies = [
   {
     id: 4,
     title: 'Inception',
-    poster: 'inception.jpg',
+    poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/inception.jpg',
     year: 2010,
     rating: 8.8,
     director: 'Christopher Nolan',
@@ -114,7 +114,7 @@ export const movies = [
   {
     id: 5,
     title: 'Guardians of the Galaxy',
-    poster: 'guardians-of-the-galaxy.jpg',
+    poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/guardians-of-the-galaxy.jpg',
     year: 2014,
     rating: 8.0,
     director: 'James Gunn',
@@ -146,7 +146,7 @@ export const movies = [
   {
     id: 6,
     title: 'The Lion King',
-    poster: 'lion-king.jpg',
+    poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/lion-king.jpg',
     year: 1994,
     rating: 8.5,
     director: 'Roger Allers, Rob Minkoff',
@@ -170,7 +170,7 @@ export const movies = [
   {
     id: 7,
     title: 'The Aviator',
-    poster: 'aviator.jpg',
+    poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/aviator.jpg',
     year: 2004,
     rating: 7.5,
     director: 'Martin Scorsese',
@@ -194,7 +194,7 @@ export const movies = [
   {
     id: 8,
     title: '2001: A Space Odyssey',
-    poster: '2001.jpg',
+    poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/2001.jpg',
     year: 1968,
     rating: 8.3,
     director: 'Stanley Kubrick',
@@ -218,7 +218,7 @@ export const movies = [
   {
     id: 9,
     title: 'Parasite',
-    poster: 'parasite.jpg',
+    poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/parasite.jpg',
     year: 2019,
     rating: 8.6,
     director: 'Bong Joon Ho',
@@ -242,7 +242,7 @@ export const movies = [
   {
     id: 10,
     title: 'Gravity',
-    poster: 'gravity.jpg',
+    poster: 'https://github.com/Czechitas-podklady-WEB/projekt-filmovy-magazin/raw/main/html-vzor/images/gravity.jpg',
     year: 2013,
     rating: 7.7,
     director: 'Alfonso Cuarón',

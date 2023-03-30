@@ -25,6 +25,7 @@ Struktura celé naší aplikace bude vypadat následovně:
 
 ## Zadání úkolu
 
+1. HTML a CSS pro projekt si můžeš vymyslet úplně sama nebo můžeš použít kód připravený v projektu ve složce `html-vzor`. HTML rozkouskuj do příslušných komponent a přidej k nim potřebné CSS.
 1. Do projektu si doinstaluj React Router:
    ```
    npm install react-router-dom
