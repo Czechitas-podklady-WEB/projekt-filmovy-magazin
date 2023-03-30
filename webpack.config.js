@@ -7,6 +7,7 @@ module.exports = {
   devtool: 'eval-source-map',
   output: {
     filename: 'bundle-[contenthash:6].js',
+    publicPath: '/',
     clean: true,
   },
   devServer: {
@@ -45,7 +46,6 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: 'src/index.html',
-      base: '/',
     }),
     new CopyPlugin({
       patterns: [
